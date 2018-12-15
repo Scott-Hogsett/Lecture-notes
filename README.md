@@ -1,3 +1,3 @@
 # Lecture-notes
 
-[IXD 102](https://scott-hogsett.github.io/Lecture-notes/ixd-102.md)
+[IXD 102](https://github.com/Scott-Hogsett/Lecture-notes/blob/gh-pages/ixd-102.md)
